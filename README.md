@@ -5,10 +5,21 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
 	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	
+A function is written to make the program do something. It starts with the word function and then a name for the function. The function also can have paramters.
 
+	* Parameters
+	
+Parameters are the names of the values received by the function.
+
+	* Arguments
+	
+Arguments are the actual data passed to the function. These are plugged into the function, which is then executed.
+
+	* `if` statements
+	
+'If' statements check whether a statement or condition is true or false. If it is true, the command is executed. It's usually partnered with an else statement, to be executed when the 'if' statement is false.
+	
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
 3. Download (clone) this project folder from GitHub.
